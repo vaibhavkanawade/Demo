@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to left, rgb(60, 60, 244),rgb(125, 125, 233));
+    text-align: center;
+}
+form{
+    
+   
+    background-color: white;
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 30px 20px;
+    align-items: center;
+    border: 2px solid black;
+    border: 20px 3px 3px 3px 0.5;
+    
+}
+.box{
+    text-align: left;
+    font-size: 20px;
+    padding: 200px;
+}
+.box input{
+    display: block;
+    padding: 5px ;
+   width: 100%;
+}
+.box label{
+    margin-top: 80px;
+}
+button:hover{
+    background-color: rgb(255, 0, 170);
+    cursor: pointer;
+    color:white;
+    
+}
